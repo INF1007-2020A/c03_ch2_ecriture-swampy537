@@ -25,6 +25,6 @@ First differing element 0:
 +  'alphabet'] : Toutes les lettres doivent être en majuscule.
 
 ----------------------------------------------------------------------
-Ran 1 test in 0.002s
+Ran 1 test in 0.001s
 
 FAILED (failures=1)
